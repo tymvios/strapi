@@ -8844,10 +8844,10 @@ stdin-discarder@^0.2.2:
   resolved "https://registry.yarnpkg.com/stdin-discarder/-/stdin-discarder-0.2.2.tgz#390037f44c4ae1a1ae535c5fe38dc3aba8d997be"
   integrity sha512-UhDfHmA92YAlNnCfhmq0VeNL5bDbiZGg7sZ2IvPsXubGkiNa9EC+tUTsjBRsYUAz87btI6/1wf4XoVvQ3uRnmQ==
 
-strapi-plugin-navigation@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/strapi-plugin-navigation/-/strapi-plugin-navigation-3.2.4.tgz#dbd21a8ca402f90bc8660c071395c07d0b8d8184"
-  integrity sha512-4BLAmUzxjBKR38GIhj4rVI1GCKeobjsKu4YNGrO4MyGkF5SFxkQnvJv0UssHGfktve6JCAQiCoerNcE35nV7fA==
+strapi-plugin-navigation@^3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-navigation/-/strapi-plugin-navigation-3.2.5.tgz#d1b39131abd642f838676ab332ed08f20d2def9c"
+  integrity sha512-0HLittgTh5gVBXOfLandNxmvIzoI+n7BVZWgNU4BSMQhWa8RG6ryd6WXRT/zzopV3BjhPQhB0d9TJ7mBkkBP6Q==
   dependencies:
     "@sensinum/strapi-utils" "^1.0.10"
     "@sindresorhus/slugify" "1.1.0"
@@ -9825,12 +9825,12 @@ yup@0.32.9:
     property-expr "^2.0.4"
     toposort "^2.0.2"
 
-zod@3.24.2, zod@^3.19.1:
+zod@3.24.2:
   version "3.24.2"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.24.2.tgz#8efa74126287c675e92f46871cfc8d15c34372b3"
   integrity sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==
 
-zod@3.25.67:
+zod@3.25.67, zod@^3.19.1:
   version "3.25.67"
   resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.67.tgz#62987e4078e2ab0f63b491ef0c4f33df24236da8"
   integrity sha512-idA2YXwpCdqUSKRCACDE6ItZD9TZzy3OZMtpfLoh6oPR47lipysRrJfjzMqFxQ3uJuUPyUeWe1r9vLH33xO/Qw==
